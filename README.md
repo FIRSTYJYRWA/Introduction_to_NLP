@@ -1,1 +1,1 @@
-# https://firstyjyrwa.github.io/Introduction_to_NLP/
+# https://github.com/FIRSTYJYRWA/Introduction_to_NLP/blob/main/TF-IDF.ipynb
